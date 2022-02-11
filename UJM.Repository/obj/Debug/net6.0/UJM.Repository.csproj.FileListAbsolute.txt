@@ -10,3 +10,15 @@ F:\项目代码\UJM.Repository\obj\Debug\net6.0\UJM.Repository.csproj.CoreCompil
 F:\项目代码\UJM.Repository\obj\Debug\net6.0\UJM.Repository.dll
 F:\项目代码\UJM.Repository\obj\Debug\net6.0\ref\UJM.Repository.dll
 F:\项目代码\UJM.Repository\obj\Debug\net6.0\UJM.Repository.pdb
+D:\UJM\UJM.Repository\bin\Debug\net6.0\UJM.Repository.deps.json
+D:\UJM\UJM.Repository\bin\Debug\net6.0\UJM.Repository.dll
+D:\UJM\UJM.Repository\bin\Debug\net6.0\ref\UJM.Repository.dll
+D:\UJM\UJM.Repository\bin\Debug\net6.0\UJM.Repository.pdb
+D:\UJM\UJM.Repository\obj\Debug\net6.0\UJM.Repository.csproj.AssemblyReference.cache
+D:\UJM\UJM.Repository\obj\Debug\net6.0\UJM.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\UJM\UJM.Repository\obj\Debug\net6.0\UJM.Repository.AssemblyInfoInputs.cache
+D:\UJM\UJM.Repository\obj\Debug\net6.0\UJM.Repository.AssemblyInfo.cs
+D:\UJM\UJM.Repository\obj\Debug\net6.0\UJM.Repository.csproj.CoreCompileInputs.cache
+D:\UJM\UJM.Repository\obj\Debug\net6.0\UJM.Repository.dll
+D:\UJM\UJM.Repository\obj\Debug\net6.0\ref\UJM.Repository.dll
+D:\UJM\UJM.Repository\obj\Debug\net6.0\UJM.Repository.pdb

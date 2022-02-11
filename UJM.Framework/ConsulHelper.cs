@@ -13,7 +13,7 @@ namespace UJM.Framework
         {
             ConsulClient client = new ConsulClient(c =>
             {
-                c.Address = new Uri("http://localhost:8500/");
+                c.Address = new Uri(configuration["ConsulUrl"]); 
                 c.Datacenter = "dc1";
             });//找到consul
             string ip = string.IsNullOrWhiteSpace(configuration["ip"]) ? "192.168.3.230" : configuration["ip"];

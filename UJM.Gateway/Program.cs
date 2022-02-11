@@ -34,14 +34,17 @@ var authenticationProviderKey = "UserGatewayKey";
 builder.Services.AddAuthentication("Bearer")
    .AddIdentityServerAuthentication(authenticationProviderKey, options =>
    {
-       options.Authority = "http://172.16.32.169:49155";
+       options.Authority = "http://172.16.32.178:6202";
        options.ApiName = "UserApi";
        options.RequireHttpsMetadata = false;
        options.SupportedTokens = SupportedTokens.Both;
    });
 #endregion
 
-var app = builder.Build();
+try
+{
+
+    var app = builder.Build();
 
 
 // Configure the HTTP request pipeline.
@@ -55,3 +58,10 @@ app.UseOcelot();//使用Ocelot的中间件来完成http响应
 
 
 app.Run();
+
+}
+catch (Exception ex)
+{
+
+    throw;
+}

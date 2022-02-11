@@ -10,3 +10,15 @@ F:\项目代码\UJM.Framework\obj\Debug\net6.0\UJM.Framework.csproj.CoreCompileI
 F:\项目代码\UJM.Framework\obj\Debug\net6.0\UJM.Framework.dll
 F:\项目代码\UJM.Framework\obj\Debug\net6.0\ref\UJM.Framework.dll
 F:\项目代码\UJM.Framework\obj\Debug\net6.0\UJM.Framework.pdb
+D:\UJM\UJM.Framework\bin\Debug\net6.0\UJM.Framework.deps.json
+D:\UJM\UJM.Framework\bin\Debug\net6.0\UJM.Framework.dll
+D:\UJM\UJM.Framework\bin\Debug\net6.0\ref\UJM.Framework.dll
+D:\UJM\UJM.Framework\bin\Debug\net6.0\UJM.Framework.pdb
+D:\UJM\UJM.Framework\obj\Debug\net6.0\UJM.Framework.csproj.AssemblyReference.cache
+D:\UJM\UJM.Framework\obj\Debug\net6.0\UJM.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\UJM\UJM.Framework\obj\Debug\net6.0\UJM.Framework.AssemblyInfoInputs.cache
+D:\UJM\UJM.Framework\obj\Debug\net6.0\UJM.Framework.AssemblyInfo.cs
+D:\UJM\UJM.Framework\obj\Debug\net6.0\UJM.Framework.csproj.CoreCompileInputs.cache
+D:\UJM\UJM.Framework\obj\Debug\net6.0\UJM.Framework.dll
+D:\UJM\UJM.Framework\obj\Debug\net6.0\ref\UJM.Framework.dll
+D:\UJM\UJM.Framework\obj\Debug\net6.0\UJM.Framework.pdb

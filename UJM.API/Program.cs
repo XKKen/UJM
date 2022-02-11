@@ -13,7 +13,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddAuthentication("Bearer")//scheme--表示通过Bearer方式来解析用户信息
      .AddIdentityServerAuthentication(options =>
      {
-         options.Authority = "http://172.16.32.169:49155";//ids4的地址--专门获取公钥
+         options.Authority = "http://172.16.32.178:17775";//ids4的地址--专门获取公钥
          options.ApiName = "UserApi";
          options.RequireHttpsMetadata = false;
      });//配置ids4
@@ -26,6 +26,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseHttpsRedirection();
 
 app.UseAuthentication();
 
