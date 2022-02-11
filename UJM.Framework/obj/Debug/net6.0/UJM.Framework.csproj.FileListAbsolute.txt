@@ -1,0 +1,12 @@
+F:\项目代码\UJM.Framework\bin\Debug\net6.0\UJM.Framework.deps.json
+F:\项目代码\UJM.Framework\bin\Debug\net6.0\UJM.Framework.dll
+F:\项目代码\UJM.Framework\bin\Debug\net6.0\ref\UJM.Framework.dll
+F:\项目代码\UJM.Framework\bin\Debug\net6.0\UJM.Framework.pdb
+F:\项目代码\UJM.Framework\obj\Debug\net6.0\UJM.Framework.csproj.AssemblyReference.cache
+F:\项目代码\UJM.Framework\obj\Debug\net6.0\UJM.Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\项目代码\UJM.Framework\obj\Debug\net6.0\UJM.Framework.AssemblyInfoInputs.cache
+F:\项目代码\UJM.Framework\obj\Debug\net6.0\UJM.Framework.AssemblyInfo.cs
+F:\项目代码\UJM.Framework\obj\Debug\net6.0\UJM.Framework.csproj.CoreCompileInputs.cache
+F:\项目代码\UJM.Framework\obj\Debug\net6.0\UJM.Framework.dll
+F:\项目代码\UJM.Framework\obj\Debug\net6.0\ref\UJM.Framework.dll
+F:\项目代码\UJM.Framework\obj\Debug\net6.0\UJM.Framework.pdb

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b0e42e0-d9c3-424d-b4cd-cfad60d894cf": {
+      "ProjectGuid": "5b0e42e0-d9c3-424d-b4cd-cfad60d894cf",
+      "DisplayName": "UJM",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "7efa99d0-a3c4-4045-a773-859556066d3c": {
+      "ProjectGuid": "7efa99d0-a3c4-4045-a773-859556066d3c",
+      "DisplayName": "UJM.IdentityServer4",
+      "ColorIndex": 1
+    },
+    "6aa83082-c7db-4305-bb0b-1af43f824e72": {
+      "ProjectGuid": "6aa83082-c7db-4305-bb0b-1af43f824e72",
+      "DisplayName": "UJM.Repository",
+      "ColorIndex": 2
+    },
+    "5166bc33-bd05-4e41-8e59-42b0aacaf99d": {
+      "ProjectGuid": "5166bc33-bd05-4e41-8e59-42b0aacaf99d",
+      "DisplayName": "UJM.Ids",
+      "ColorIndex": 3
+    },
+    "37bf5c25-3438-49ba-b5b4-2fdeb5edc509": {
+      "ProjectGuid": "37bf5c25-3438-49ba-b5b4-2fdeb5edc509",
+      "DisplayName": "UJM.Gateway",
+      "ColorIndex": 4
+    },
+    "5ed3e043-9b4c-41b6-ba84-c7300c3afc96": {
+      "ProjectGuid": "5ed3e043-9b4c-41b6-ba84-c7300c3afc96",
+      "DisplayName": "UJM.Gateway",
+      "ColorIndex": 5
+    },
+    "b28a155f-df8c-4c64-a5d6-88bf989cbc8a": {
+      "ProjectGuid": "b28a155f-df8c-4c64-a5d6-88bf989cbc8a",
+      "DisplayName": "UJM.API",
+      "ColorIndex": 6
+    },
+    "014bfee5-804e-47d7-9bd8-a7e5a81b24e8": {
+      "ProjectGuid": "014bfee5-804e-47d7-9bd8-a7e5a81b24e8",
+      "DisplayName": "UJM.Framework",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
